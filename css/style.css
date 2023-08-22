@@ -1,0 +1,13 @@
+h1 {
+  color: darkseagreen;
+}
+[data-theme=dark] h1 {
+  color: darksalmon;
+}
+@media (max-width: 768px) {
+  h1 {
+    color: blue;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
